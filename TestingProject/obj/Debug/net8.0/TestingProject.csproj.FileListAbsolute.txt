@@ -1,0 +1,14 @@
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\bin\Debug\net8.0\TestingProject.exe
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\bin\Debug\net8.0\TestingProject.deps.json
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\bin\Debug\net8.0\TestingProject.runtimeconfig.json
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\bin\Debug\net8.0\TestingProject.dll
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\bin\Debug\net8.0\TestingProject.pdb
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.AssemblyInfoInputs.cache
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.AssemblyInfo.cs
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.csproj.CoreCompileInputs.cache
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.dll
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\refint\TestingProject.dll
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.pdb
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\TestingProject.genruntimeconfig.cache
+C:\Users\Veena.S\source\repos\TestingProject\TestingProject\obj\Debug\net8.0\ref\TestingProject.dll
