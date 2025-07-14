@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Veena.S\\source\\repos\\TestingProject\\TestingProject\\TestingProject.csproj",
+      "projectUniqueName": "C:\\Users\\Veena.S\\Desktop\\Backend-Training\\TestingProject\\TestingProject.csproj",
       "projectName": "TestingProject",
-      "projectPath": "C:\\Users\\Veena.S\\source\\repos\\TestingProject\\TestingProject\\TestingProject.csproj",
+      "projectPath": "C:\\Users\\Veena.S\\Desktop\\Backend-Training\\TestingProject\\TestingProject.csproj",
       "packagesPath": "C:\\Users\\Veena.S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Veena.S\\source\\repos\\TestingProject\\TestingProject\\obj\\",
+      "outputPath": "C:\\Users\\Veena.S\\Desktop\\Backend-Training\\TestingProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
